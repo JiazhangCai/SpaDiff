@@ -1,0 +1,9 @@
+tensorflow==2.14.0
+numpy==1.25.2
+matplotlib==3.10.0
+pandas==2.2.3
+imageio==2.37.0
+multiprocess==0.70.15
+pathos==0.3.0
+tqdm==4.67.1
+scipy==1.15.2
