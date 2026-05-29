@@ -1,0 +1,8 @@
+# Runtime dependencies for SpaDiff
+# Tested with the versions below; later versions in the same major series should also work.
+numpy>=1.24
+scipy>=1.10
+
+# Optional, for examples/minimal_demo.ipynb
+matplotlib>=3.7
+jupyter>=1.0

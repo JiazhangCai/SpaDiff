@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you use SpaDiff in your research, please cite the paper below."
+title: "SpaDiff: Mass-particle reverse denoising for spatial transcriptomics"
+version: 1.0.0
+date-released: 2026-05-28
+authors:
+  - family-names: Cai
+    given-names: Jiazhang
+    email: caijiazhang1@gmail.com
+    # orcid: "https://orcid.org/0000-0000-0000-0000"  # TODO: fill in
+license: MIT
+repository-code: "https://github.com/JiazhangCai/SpaDiff"
+# doi: 10.5281/zenodo.XXXXXXX  # TODO: fill in after Zenodo release
+keywords:
+  - spatial transcriptomics
+  - denoising
+  - diffusion
+  - Visium
+  - single cell
+
+preferred-citation:
+  type: article
+  title: "SpaDiff: Denoising for Sequence-based Spatial Transcriptomics via Diffusion Process"
+  authors:
+    - family-names: Cai
+      given-names: Jiazhang
+  year: 2026
+  journal: "REPLACE WITH JOURNAL NAME"
+  # doi: 10.xxxx/xxxxx                   # TODO: fill in after publication
+  # volume: ""
+  # issue:  ""
+  # start:  ""
+  # end:    ""
