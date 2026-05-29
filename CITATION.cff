@@ -10,7 +10,7 @@ authors:
     # orcid: "https://orcid.org/0000-0000-0000-0000"  # TODO: fill in
 license: MIT
 repository-code: "https://github.com/JiazhangCai/SpaDiff"
-# doi: 10.5281/zenodo.XXXXXXX  # TODO: fill in after Zenodo release
+doi: 10.5281/zenodo.20437584
 keywords:
   - spatial transcriptomics
   - denoising

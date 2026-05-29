@@ -78,7 +78,7 @@ For a complete end-to-end walkthrough on synthetic data, see [`examples/minimal_
 
 This release contains the SpaDiff package and a minimal worked example. The full set of analysis scripts (Figures 2–6, ablations, sweeps) and the denoised output matrices are too large to host on GitHub. They are archived on Zenodo:
 
-- **Code archive (this repo)**: [doi:10.5281/zenodo.XXXXXXX](https://doi.org/10.5281/zenodo.XXXXXXX)
+- **Code archive (this repo)**: [doi:10.5281/zenodo.20437584](https://doi.org/10.5281/zenodo.20437584)
 - **Paper data and denoised outputs**: [doi:10.5281/zenodo.YYYYYYY](https://doi.org/10.5281/zenodo.YYYYYYY) *(optional second record)*
 
 Raw input data:
@@ -134,8 +134,8 @@ If you use SpaDiff in your research, please cite both the paper and this code re
   author    = {Cai, Jiazhang},
   year      = {2026},
   publisher = {Zenodo},
-  doi       = {10.5281/zenodo.XXXXXXX},
-  url       = {https://doi.org/10.5281/zenodo.XXXXXXX}
+  doi       = {10.5281/zenodo.20437584},
+  url       = {https://doi.org/10.5281/zenodo.20437584}
 }
 ```
 
